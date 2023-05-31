@@ -13,5 +13,7 @@
 
 6. Summarize the conclusion and give suggestions as per the findings
 
+Complete process of this project is mentioned in project approach file & in this blog: https://medium.com/@ajaypjoshi999/credit-card-analysis-project-using-excel-and-power-bi-7fe4c524d9ae
+
 
 ![dashboard](https://github.com/ajaypjoshi/Credit-card-complaint-analysis/assets/131679074/c28c7e6a-b67f-47a3-972f-c75499a9f898)
